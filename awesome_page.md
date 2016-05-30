@@ -1,2 +1,3 @@
-A conflicting change
-Another conflict
+A change
+Another change
+
